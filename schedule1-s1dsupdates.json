@@ -1,10 +1,10 @@
 [
     {
-        "UpdateStageName": "Pull S1DS Docker image",
-        "UpdateSourcePlatform": "Linux",
-        "UpdateSource": "Executable",
-        "UpdateSourceData": "/usr/bin/docker",
-        "UpdateSourceArgs": "pull ghcr.io/ifbars/s1dedicatedservers:{{ImageTag}}",
+        "UpdateStageName": "Download Schedule I via SteamCMD",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "3164500",
+        "ForceDownloadPlatform": "Windows",
         "SkipOnFailure": false
     }
 ]
