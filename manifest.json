@@ -1,7 +1,7 @@
 {
-	"id": "5e87fcc8-1a14-4386-85ff-f6355d2c4ac3",
-	"authors": ["Marcel Wasilewski"],
-	"origin": "https://github.com/Wasilewskiii/s1ampserver.git",
+	"id": "5e87fcc8-1a14-4386-85ff-f6355d2c4ac4",
+	"authors": ["Marcel Wasilewski", "TinoBoss1987"],
+	"origin": "https://github.com/TinoBoss1987/s1ampserverWindowsNonContainer.git",
 	"url": "https://github.com/ifBars/S1DedicatedServers",
 	"imagefile": "",
 	"prefix": "",
