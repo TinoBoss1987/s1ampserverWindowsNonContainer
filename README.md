@@ -1,3 +1,5 @@
+This readme is only for the main fork, do not follow this instructions. This fork is only for my personal use but feel free to use if you know what you are doing.
+
 # Schedule I Dedicated Server for AMP
 
 An [AMP (CubeCoders)](https://cubecoders.com/AMP) deployment template that runs a **Schedule I dedicated server** using the [S1DedicatedServers mod](https://github.com/ifBars/S1DedicatedServers) by ifBars. It wraps the official S1DS Docker image (`ghcr.io/ifbars/s1dedicatedservers`), which ships the whole Wine + Xvfb + MelonLoader + SteamCMD stack. AMP gives you start/stop, console, player list, scheduling and backups, while upstream maintains the tricky parts.
