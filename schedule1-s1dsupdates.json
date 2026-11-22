@@ -5,6 +5,7 @@
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "3164500",
         "ForceDownloadPlatform": "Windows",
+        "AnonymousLogin": false,
         "SkipOnFailure": false
     }
 ]
