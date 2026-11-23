@@ -30,7 +30,7 @@ App.BaseDirectory=./s1ds/3164500/
 App.ExecutableWin=3164500/Schedule I.exe
 App.WorkingDir=3164500
 App.WindowsCommandLineArgs=--batchmode --nographics --dedicated-server --stdio-console
-App.CommandLineArgs=
+App.CommandLineArgs=--batchmode --nographics --dedicated-server --stdio-console
 App.AppSettings={}
 App.EnvironmentVariables={}
 App.CommandLineParameterFormat=-{0}={1}
